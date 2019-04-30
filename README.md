@@ -1,4 +1,4 @@
 Practicas-Poo
 =============
 
-Prácticas de Poo en C++
+Object-Oriented Programming assignments
